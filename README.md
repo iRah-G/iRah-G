@@ -1,6 +1,6 @@
 <h1 align="center">Howdy, I'm Rahi (๑•ᴗ•๑)</h1> <p align="center"> I find bugs for a living. Then I find more bugs. It's bugs all the way down. 
-</p> <p align="center"> <a href="https://www.linkedin.com/in/rahi-gaikwad/">LinkedIn</a> · 
-<a href="https://my-portfolio-rahi8.vercel.app/">Portfolio</a> · <a href="mailto:rahigaikwad@tamu.edu">Email</a> </p>
+</p> <p align="center"> <a href="https://www.linkedin.com/in/rahi-gaikwad/" target="_blank">LinkedIn</a> · 
+<a href="https://my-portfolio-rahi8.vercel.app/" target="_blank">Portfolio</a> · <a href="mailto:rahigaikwad@tamu.edu">Email</a> </p>
 
 ### (づ｡◕‿‿◕｡)づ **What I actually do?**
 
